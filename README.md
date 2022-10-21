@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I've been learning to code since 2021 and I started with Java, Python, Javascript, React, HTML/CSS and Django but, I have recently found a passion Designs and frontend development...
+I've been learning to code since 2021 and I started with Java, Python, Javascript, React, HTML/CSS and Django but, I have recently found a passion for Designs and frontend development...
 
 *   🌍  I'm based in Lekki, Lagos, Nigeria.
 *   ✉️  You can contact me at [adeyemiadebimpe16@gmail.com](mailto:adeyemiadebimpe16@gmail.com  )
