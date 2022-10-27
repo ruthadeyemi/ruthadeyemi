@@ -52,8 +52,6 @@ I've been learning to code since 2021 and I started with Java, Python, Javascrip
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruthadeyemi&stroke=ffffff&background=312e81&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>     
 <img src="https://activity-graph.herokuapp.com/graph?username=ruthadeyemi&amp;bg_color=312e81&amp;color=ffffff&amp;line=facc15&amp;point=ffffff&amp;area_color=312e81&amp;area=true&amp;hide_border=true&amp;custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph">
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcranney&amp;langs_count=10&amp;title_color=facc15&amp;text_color=ffffff&amp;icon_color=facc15&amp;bg_color=312e81&amp;hide_border=true&amp;locale=en&amp;custom_title=Top%20%Languages">
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/ruthadeyemi/deitelExercises" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ruthadeyemi&repo=deitelExercises&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=312e81&hide_border=true&locale=en" /></a><a href="https://github.com/ruthadeyemi/React" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ruthadeyemi&repo=React&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=312e81&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
