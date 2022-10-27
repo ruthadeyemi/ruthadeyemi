@@ -54,7 +54,15 @@ I've been learning to code since 2021 and I started with Java, Python, Javascrip
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcranney&amp;langs_count=10&amp;title_color=facc15&amp;text_color=ffffff&amp;icon_color=facc15&amp;bg_color=312e81&amp;hide_border=true&amp;locale=en&amp;custom_title=Top%20%Languages">
 
- <h2><b>Top Repositories</b></h2>
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/ruthadeyemi/deitelExercises" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ruthadeyemi&repo=deitelExercises&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=312e81&hide_border=true&locale=en" /></a><a href="https://github.com/ruthadeyemi/React" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ruthadeyemi&repo=React&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=312e81&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/ruthadeyemi/Javascript" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ruthadeyemi&repo=Javascript&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=312e81&hide_border=true&locale=en" /></a><a href="https://github.com/ruthadeyemi/HTML-CSS" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ruthadeyemi&repo=HTML-CSS&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=312e81&hide_border=true&locale=en" /></a></div>
+ 
+ 
  <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
  <a href="https://www.twitter.com/darya_agna" target="_blank" rel="noreferrer">
  <img src="https://img.shields.io/twitter/follow/darya_agna?logo=twitter&style=for-the-badge&color=facc15&labelColor=312e81"/></a>
